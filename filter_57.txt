@@ -15,7 +15,6 @@
 ||bromo.com^
 ||broapp.com^
 ||bumble.com^
-||cdn.ampproject.org^
 ||cdn.barebackrt.com^
 ||cdns.grindr.com^
 ||chappy.com^
