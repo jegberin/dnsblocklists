@@ -1,1 +1,6 @@
-
+!
+! Title: He's probably cheating
+! Description: Blocks dating websites.
+! Version: 1.0.14.69
+! Compiled by @adguard/hostlist-compiler v1.0.35
+!
