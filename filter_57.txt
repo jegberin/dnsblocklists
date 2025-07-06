@@ -1,6 +1,7 @@
-||cdnw.hubpeople.com
-||excite-app.hub-cdn.com
-||hub.arnazeie.fun
+||hub.bluemouse.fun^
+||cdnw.hubpeople.com^
+||excite-app.hub-cdn.com^
+||hub.arnazeie.fun^
 ||a4a.com^
 ||acedating.app^
 ||adam4adam.com^
