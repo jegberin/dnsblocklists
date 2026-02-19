@@ -1,3 +1,4 @@
+||consent.google.com^
 ||hub.bluemouse.fun^
 ||cdnw.hubpeople.com^
 ||excite-app.hub-cdn.com^
